@@ -129,9 +129,9 @@ https://www.kaggle.com/datasets/rmisra/news-category-dataset
   </thead>
   <tbody>
     <tr>
-      <td><b>0.6093</b></td>
-      <td><b>0.4778</b></td>
-      <td><b>0.5900</b></td>
+      <td><b>0.6094</b></td>
+      <td><b>0.4782</b></td>
+      <td><b>0.5902</b></td>
     </tr>
   </tbody>
 </table>
