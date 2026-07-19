@@ -146,10 +146,13 @@ https://www.kaggle.com/datasets/rmisra/news-category-dataset
 <h3 style="text-align:left;">Installation & Usage</h3>
 
 Клонування репозиторію
+
 git clone https://github.com/MrCherveN/News-Category-Classification.git
+
 cd News-Category-Classification
 
 Встановлення залежностей
+
 pip install -r requirements.txt
 
 Підготовка даних:
