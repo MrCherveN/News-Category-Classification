@@ -21,7 +21,6 @@ News Category Classification - проєкт з автоматичної клас
 
 https://www.kaggle.com/datasets/rmisra/news-category-dataset
 
-Для побудови моделей було використано датасет з джерела, який було перейменовано в "News_Category_Dataset.zip" та поміщено в кореневий підкаталог "data" (це слід врахувати під час відтворення проєкту).
 Файл датасету містить 209 527 записів, опубліковані у період між 2012 та 2022 роками. 
 
 Кожен JSON-запис файла складається з таких атрибутів:
@@ -142,3 +141,22 @@ https://www.kaggle.com/datasets/rmisra/news-category-dataset
 * Використання семантичних ембедингів дозволило покращити якість класифікації порівняно з TF-IDF.
 * Модель продемонструвала хорошу здатність до узагальнення: результати на тестовому наборі практично збігаються з результатами на валідаційному.
 * Найчастіші помилки виникали між тематично близькими категоріями.
+
+
+<h3 style="text-align:left;">Installation & Usage</h3>
+
+Підготовка даних:
+* завантажте датасет з Kaggle
+* перейменуйте отриманий в "News_Category_Dataset.zip" та помістіть в папку  "data".
+
+
+Запуск ноутбуків виконуйте в такому порядку:
+
+* 01_EDA.ipynb
+* 02_data_preparation.ipynb
+* 03_baseline.ipynb
+* 04_xgboost.ipynb
+* 05_sentence_transformer.ipynb
+* 06_model_comparison.ipynb
+* 07_final_model_test.ipynb
+
