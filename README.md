@@ -57,10 +57,11 @@ https://www.kaggle.com/datasets/rmisra/news-category-dataset
 * TfidfVectorizer
 * LogisticRegression
   
-2. TF-IDF + SVD + XGBoost
+2. TF-IDF + SVD + XGBoost (з використанням RandomizedSearchCV)
 * TfidfVectorizer
 * TruncatedSVD
 * XGBClassifier
+* RandomizedSearchCV
   
 3. SentenceTransformer + Logistic Regression
 * SentenceTransformer (all-MiniLM-L6-v2)
