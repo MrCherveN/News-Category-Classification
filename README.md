@@ -19,7 +19,7 @@ News Category Classification - проєкт з автоматичної клас
 
 <h3 style="text-align:left;">Дані.</h3>
 
-Джерело: News Category Datasetна Kaggle
+Джерело: News Category Dataset на Kaggle
 
 https://www.kaggle.com/datasets/rmisra/news-category-dataset
 
