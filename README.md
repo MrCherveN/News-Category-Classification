@@ -173,3 +173,7 @@ pip install -r requirements.txt
 * 06_model_comparison.ipynb
 * 07_final_model_test.ipynb
 
+<h3 style="text-align:left;">Посилання на презентацію</h3>
+
+https://www.loom.com/share/173702e7864f40b0be89098f7dfa6362
+
